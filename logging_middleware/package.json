@@ -1,0 +1,9 @@
+{
+  "name": "logging_middleware",
+  "version": "1.0.0",
+  "description": "Custom logging middleware",
+  "main": "middleware.js",
+  "dependencies": {
+    "morgan": "^1.10.0"
+  }
+}
